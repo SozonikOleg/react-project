@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import Map from "../src/components/map/Map";
 import "./App.css";
 
