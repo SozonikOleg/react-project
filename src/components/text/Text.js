@@ -49,9 +49,7 @@ const BaseSpan = styled.span`
 `;
 
 const Chips = styled(BaseSpan)``;
-
 const Text14 = styled(BaseSpan)``;
-
 const ProblemsButtonText = styled(BaseSpan)`
 `;
 
